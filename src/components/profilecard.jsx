@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Card, Button } from "react-bootstrap";
-import { FaHeart } from "react-icons/fa"; // Import heart icon
+import { FaHeart } from "react-icons/fa"; 
 
 // Updated working images for people
 const peopleImages = {
